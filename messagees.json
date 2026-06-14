@@ -1,0 +1,29 @@
+{
+  "messageID": "9603987216",
+  "messageNumber": 1,
+  "recipient": "+27718693002",
+  "message": "Hi Mike,can you join us for dinner tonight",
+  "messageHash": "96:1:HITONIGHT",
+  "flag": "sent"
+}{
+  "messageID": "9603987216",
+  "messageNumber": 1,
+  "recipient": "+27718693002",
+  "message": "Hi Mike,can you join us for dinner tonight",
+  "messageHash": "96:1:HITONIGHT",
+  "flag": "stored"
+}{
+  "messageID": "7766764225",
+  "messageNumber": 1,
+  "recipient": "+27718693002",
+  "message": "Hi Mike,can you join us for dinner tonight?",
+  "messageHash": "77:1:HITONIGHT?",
+  "flag": "sent"
+}{
+  "messageID": "7766764225",
+  "messageNumber": 1,
+  "recipient": "+27718693002",
+  "message": "Hi Mike,can you join us for dinner tonight?",
+  "messageHash": "77:1:HITONIGHT?",
+  "flag": "stored"
+}
