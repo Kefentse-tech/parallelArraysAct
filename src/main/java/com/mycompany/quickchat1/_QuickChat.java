@@ -250,7 +250,7 @@ class message {
      messageData longest =storedMessages[0];
      for(int i=1;i<storedCount;i++){
      if(storedMessages[i].message.length()>longest.message.length()){
-       longest=storedMessages[i];
+       longest=storedMessages[i]; 
          }
      }
      return"\nLongest message:\n Recipient"+longest.recipient+
