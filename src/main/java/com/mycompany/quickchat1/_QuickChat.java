@@ -95,7 +95,7 @@ class login {
         if (checkUsername(storeUsername) && checkPasswordComplexity(storePassword) && checkCellPhoneNumber(storeCellPhoneNumber)) {
             System.out.println("Successful registration!");
         } else {
-            System.out.println("Failed registration!");
+            System.out.println("Failed registration!"); 
         }
     }
    boolean userlogin(String username,String password){
